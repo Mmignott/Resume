@@ -3,7 +3,27 @@ html {
   width: 100%;
 }
 .container{
-  width: 85%;
+  width: 900px;
   margin: 0 auto;
-  
+  }
+.profile-image{
+  width: 45%;
+  }
+.profile-image img{
+  width: 100%
 }
+.resume-header{
+  display: flex;
+}
+.resume-main{
+  display:flex;
+}
+.sidebar{
+  display:flex;
+  width:30%
+}
+.Side{
+  width: 42%;
+  margin: 5%;
+  }
+
